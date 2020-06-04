@@ -83,7 +83,7 @@ Players may not subtract 291 from the ordinal number of their proposal and multi
 
 Rules for the amendment, repeal, or transmutation of 1 or more rules must be structured such as: 
 "{action} of Rule(s) {rule number(s)} [optional description]."
-... where "rules" indicates an existing, legal rule.
+... where "rules" indicates an existing rule.
 ... where "action" is either "Amendment", "Repeal", or "Transmutation".
 ... where "rule number(s)" is one or more rule number(s), comma separated if needed.
 ... where "optional description" begins with "such that" and clearly defines the new state of, or explicit changes to, the rule.
