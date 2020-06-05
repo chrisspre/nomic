@@ -79,7 +79,7 @@ This rule takes precedence over every other rule determining the winner.
 
 Players may not subtract 291 from the ordinal number of their proposal and multiply the result by the fraction of favorable votes it received, rounded to the nearest integer. No rule with a lower ordinal number can take precedence over this rule.
 
-## 303
+## 302
 
 Rules for the amendment, repeal, or transmutation of 1 or more rules must be structured such as: 
 "{action} of Rule(s) {rule number(s)} [optional description]."
