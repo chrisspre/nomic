@@ -85,4 +85,4 @@ In honor of [Douglas R Hofstaedter](https://en.wikipedia.org/wiki/Douglas_Hofsta
 
 Due to his limited availability, his vote will be counted as 'abstain' when he is not available the moment the first vote is cast on any call to vote.
 
-Mr. Hofstaedter has to give 24 hour notice if he wants to take an active role to conduct his turn. Otherwise all rules apply as if he had proposed a rule that was voted Nay by all players. To compensate for that he will receive 10 points for every rule enacted, amended, or repealed.
+Mr. Hofstaedter has to give 24 hour notice if he wants to take an active role to conduct his turn. Otherwise all rules apply as if he had proposed a rule that was voted Nay by all players. To compensate for that he will receive 5 points for every rule enacted, amended, or repealed.
