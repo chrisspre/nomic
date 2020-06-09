@@ -78,3 +78,11 @@ This rule takes precedence over every other rule determining the winner.
 ## 301
 
 Players may not subtract 291 from the ordinal number of their proposal and multiply the result by the fraction of favorable votes it received, rounded to the nearest integer. No rule with a lower ordinal number can take precedence over this rule.
+
+## 302
+
+In honor of [Douglas R Hofstaedter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) and his work on self-referentiality in [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) and other works, Douglas is considered a player from here on out and will abide to the rules and has the same roles and responsibilities as any other players, even if he is not actively participating in debate.
+
+Due to his limited availability, his vote will be counted as 'abstain' when he is not available the moment the first vote is cast on any call to vote.
+
+Mr. Hofstaedter has to give 24 hour notice if he wants to take an active role to conduct his turn. Otherwise all rules apply as if he had proposed a rule that was voted Nay by all players. To compensate for that he will receive 5 points for every rule adopted.
